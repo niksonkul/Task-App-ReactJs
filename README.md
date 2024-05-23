@@ -65,4 +65,15 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 ### `npm run build` fails to minify
 
+![image](https://github.com/niksonkul/Task-App-ReactJs/assets/51081600/45e17aa2-493d-4ffd-a8bd-765bf7904afe)
+![image](https://github.com/niksonkul/Task-App-ReactJs/assets/51081600/cd634139-599a-4249-9993-52c7c2079057)
+![image](https://github.com/niksonkul/Task-App-ReactJs/assets/51081600/0dff812b-586a-42e4-8c36-2d0975320311)
+![image](https://github.com/niksonkul/Task-App-ReactJs/assets/51081600/733ef916-8523-4ca1-8034-27f6af59947f)
+![image](https://github.com/niksonkul/Task-App-ReactJs/assets/51081600/e1f736b8-6b23-4ce7-a059-289a9d7b2e20)
+![image](https://github.com/niksonkul/Task-App-ReactJs/assets/51081600/d9b327de-d669-44d7-956e-53547731c196)
+![image](https://github.com/niksonkul/Task-App-ReactJs/assets/51081600/08df6368-4f95-4a36-bcc0-45978c2dd11a)
+
+
+
+
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
